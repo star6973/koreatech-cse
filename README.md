@@ -29,25 +29,23 @@
 <br/>
 
 4. project list
+   
 
-  
-   ![#ffff00](https://placehold.it/15/aff92c/000000?text=+)
+   ![#ffff00](https://placehold.it/15/aff92c/000000?text=+) 주니어
+    
+   ![#ffa500](https://placehold.it/15/ffa500/000000?text=+) 라이트
    
+   【 Optimal capacity design web service of renewable energy 】 [Project1](https://github.com/star6973/project1)
    
-   ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)
+   ![#e7641c](https://placehold.it/15/e7641c/000000?text=+) 오리지날
    
-   
-   ![#e7641c](https://placehold.it/15/e7641c/000000?text=+)
-   
-   【 Data acquisition and visualization system for team project ]
-   
-   【 Optimal capacity design web service of renewable energy 】(https://github.com/star6973/project1)
-   
-   【 Machine Learning Classification Model Visualization Web Service 】(https://github.com/star6973/project2)
+   【 Machine Learning Classification Model Visualization Web Service 】 [Project2](https://github.com/star6973/project2)
 
-   ![#ff280f](https://placehold.it/15/ff280f/000000?text=+)
+   【 Data acquisition and visualization system for team project 】 [Project3](https://github.com/star6973/project3)
 
-   [ Unmanned store payment system ](https://github.com/star6973/project4)
+   ![#ff280f](https://placehold.it/15/ff280f/000000?text=+) 익스트림
    
-   ![#960a0a](https://placehold.it/15/960a0a/000000?text=+)
+   【 Unmanned store payment system 】 [Project4](https://github.com/star6973/project4)
+   
+   ![#960a0a](https://placehold.it/15/960a0a/000000?text=+) 하드코어 익스트림
    
