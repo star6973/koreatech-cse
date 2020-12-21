@@ -8,6 +8,7 @@
 
    + Koreatech Computer Science Engineering[2014.03 ~ 2020.02] - senior
    + Koreatech Startup Club(DoTS)[2018.11 ~ 2019.12] - vice president & back-end developer
+   + DI.Mosaic Startup[2020.06 ~ 2020.12] - back-end developer
 <br/>
 
 2. activity list
